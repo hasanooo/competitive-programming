@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1738515076 source:c:\users\mahamud\desktop\competitive programming\counting pairs\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
